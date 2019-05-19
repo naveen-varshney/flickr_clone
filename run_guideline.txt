@@ -1,0 +1,9 @@
+steps to run this project
+
+1- create a virtual env
+2 -  run 'pip install -r requirements.txt'
+3- pls create a user from console
+4-python manage.py runserver
+
+5- http://127.0.0.1:8000/create-group/?group_id=<valid_group_id>
+this will create a group with photo synced
